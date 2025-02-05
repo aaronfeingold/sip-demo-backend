@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+poetry.lock
+
+# Editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs & Debugging
+logs/
+*.log
+
+# Docker
+docker-compose.override.yml
